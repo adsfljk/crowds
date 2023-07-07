@@ -1,0 +1,1 @@
+python manage.py runsslserver --certificate /home/ubuntu/home/scs1659282067753_chuanyuefengxinzi.xyz_Nginx/scs1659282067753_chuanyuefengxinzi.xyz_server.crt --key /home/ubuntu/home/scs1659282067753_chuanyuefengxinzi.xyz_Nginx/scs1659282067753_chuanyuefengxinzi.xyz_server.key 172.30.0.13:8080   
